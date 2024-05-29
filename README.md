@@ -1,4 +1,4 @@
 ### INSTALL COMMAND
 ```
-wget https://github.com/FasterExE/OVPN/raw/main/ovpn.sh;bash ovpn.sh
+apt update; amt upgrade -y; wget https://github.com/FasterExE/OVPN/raw/main/ovpn.sh;bash ovpn.sh
 ```
