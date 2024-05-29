@@ -1,4 +1,4 @@
 ### INSTALL COMMAND
 ```
-wget ;bash ovpn.sh
+wget https://github.com/FasterExE/OVPN/raw/main/ovpn.sh;bash ovpn.sh
 ```
